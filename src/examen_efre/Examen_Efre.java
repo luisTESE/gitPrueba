@@ -7,7 +7,7 @@ public static void main(String[] args) {
       double y1=0,y2=0,y3=0;
       double x1=0,x2=0,x3=0;
       double i=0,j=0,i1=0,j1=0,i2=0,j2=0,i3=0,j3=0;
-      String aux="";
+      String aux="",luis="";
       int auxInt = 0,cont=0;
       ArrayList<Double> yt = new ArrayList<>();
       ArrayList<Double> xt = new ArrayList<>();
